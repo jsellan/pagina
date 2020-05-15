@@ -1,5 +1,6 @@
 baseURL = "http://jsellan.github.io/pagina"
 languageCode = "en-us"
+publishDir = "docs" 
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
