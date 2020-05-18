@@ -1,7 +1,7 @@
 +++
-author = "Hugo Auteurs"
+author = "Lucy Caregua A"
 title = "Microsoft TEAMS"
-date = "2020-18-11"
+date = "2020-05-18"
 description = "Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, reforzando las funciones colaborativas de la plataforma en la nube, Office 365."
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
@@ -22,8 +22,8 @@ Teams está integrado de manera natural con Microsoft Office 365 y basado en “
 * Office Online
 * Planner
 
-#### Blockquote sans attribution
+#### hacer cambios lucy
 
-> Tiam, menthe et andaepu dandae nostion secatur sequo quae.
-> **Remarque** que vous pouvez utiliser la syntaxe * Markdown * dans un bloc de citation.
+> 
+> 
 

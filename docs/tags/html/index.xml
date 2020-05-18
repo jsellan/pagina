@@ -6,28 +6,30 @@
     <description>Recent content in html on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://jsellan.github.io/pagina/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://jsellan.github.io/pagina/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://jsellan.github.io/pagina/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Microsoft TEAMS</title>
       <link>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</guid>
       <description>Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, reforzando las funciones colaborativas de la plataforma en la nube, Office 365.
 ¿Qué es Microsoft Teams? Teams está integrado de manera natural con Microsoft Office 365 y basado en “Groups”, el servicio en la nube desarrollado para la colaboración entre usuarios. La herramienta reúne en un espacio común, las aplicaciones de colaboración necesarias para trabajar en equipo y con las que podrás trabajar con:</description>
+    </item>
+    
+    <item>
+      <title> Zoom </title>
+      <link>http://jsellan.github.io/pagina/blog/markdown-syntax/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://jsellan.github.io/pagina/blog/markdown-syntax/</guid>
+      <description>Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde.
+Características principales de Zoom Zoom permite hacer diversas cosas pero puede resumirse en tres puntos:
+Reuniones individuales. Videoconferencias grupales. Uso compartido de pantalla. Como funciona? El nivel gratuito permite organizar reuniones ilimitadas de manera personal y tener videoconferencias de hasta 40 minutos con más de 100 participantes (500 si se compra el plan completo)</description>
     </item>
     
   </channel>
