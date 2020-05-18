@@ -24,6 +24,11 @@ images  = ["img/2014/04/pic0111.jpg"]
 * Office Online
 * Planner
 
+*  Cuando estamos bajo una conexión WiFi, el consumo de cada aplicación no importa demasiado. Salvo, claro está, que tengamos una conexión muy reducida y la app se vea obligada a adaptar la calidad para que no se produzcan cortes.
+
+FaceTime es, por mucho, la app que menos consume durante las llamadas de vídeo. Hasta cuatro veces menos que WhatsApp.
+
+Las mediciones de datos de las tres aplicaciones ha producido cifras más o menos similares, o al menos contenidas en un mismo rango, pero se han disparado en el caso de WhatsApp. La App de mensajería más popular del planeta no tiene aún una codificación de vídeo tan eficaz como la de su competencia, y el consumo con ella ha sido notablemente mayor. Tanto que ha multiplicado por dos el consumo de datos.
 #### 
 
 
