@@ -10,7 +10,7 @@ images = ["img/2017/08/pic044.jpg", "img/2014/04/pic01.jpg"]
 
  Además, se le suma el hecho de que los precios de las llamadas son bastante económicos dependiendo del país evidentemente. No obstante, entre personas que tienen Skype las llamadas son completamente gratuitas. Esto significa que, si la otra persona tiene instalado Skype, puedes llamarla ya sea con una llamada de voz o videollamada de manera gratuita, sin gastar un solo céntimo. Además, en las videollamadas pueden participar hasta 24 personas. Con la versión empresarial el número de personas que pueden participar se extienda hasta 50.
 
-## ¿skype?
+## SKYPE
 
 El uso general de la aplicación es gratuito. Solo tiene una versión de pago la cual es más enfocado a empresas y para personas individuales no es necesario. Incluso para pequeñas empresas de menos de 20 empleados, con la versión normal de Skype es más que suficiente.
 Además, se le suma el hecho de que los precios de las llamadas son bastante económicos dependiendo del país evidentemente. No obstante, entre personas que tienen Skype las llamadas son completamente gratuitas.
@@ -18,7 +18,7 @@ Esto significa que, si la otra persona tiene instalado Skype, puedes llamarla ya
 Con la versión empresarial el número de personas que pueden participar se extienda hasta 50.
 
 
-Ventajas
+## *Ventajas*
 Para instalar Skype basta con acceder a su sitio web, descargar la app y comenzar a utilizarla. También puedes optar por hacer esto desde la Windows Store en caso de que tengas Windows 10. Incluso puedes usar su versión web para usar la app desde el navegador.
 
 - Skype es fácil y rápido de instalar.
@@ -27,7 +27,7 @@ Para instalar Skype basta con acceder a su sitio web, descargar la app y comenza
 - Las llamadas con Skype tienen una alta calidad de sonido y son altamente seguras.
 - Skype funciona en la mayoría de los equipos: Windows, Mac OS X, Linux y Pocket Out.
 
-Desventajas
+## *Desventajas*
 - Tener contactos no deseados.
 - Para llamar a teléfonos fijos se tiene que pagar.
 - El buzón de voz tampoco es gratuito.
