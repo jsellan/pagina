@@ -62,8 +62,8 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Tecnologias"
+    paragraph             = "El teletrabajo se ha convertido en una fórmula eficaz para poder desarrollar la actividad de multitud de empresas."
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
@@ -82,7 +82,7 @@ disableLanguages        = [""]
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "test"
+    about               = "Tecnologias de teletra"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar

@@ -3,66 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jsellan.github.io/pagina/</loc>
-    <lastmod>2020-05-15T17:36:12-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://jsellan.github.io/pagina/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://jsellan.github.io/pagina/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://jsellan.github.io/pagina/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://jsellan.github.io/pagina/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://jsellan.github.io/pagina/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://jsellan.github.io/pagina/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://jsellan.github.io/pagina/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://jsellan.github.io/pagina/post/my-first-post/</loc>
-    <lastmod>2020-05-15T17:36:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jsellan.github.io/pagina/post/</loc>
-    <lastmod>2020-05-15T17:36:12-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jsellan.github.io/pagina/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -154,6 +94,56 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://jsellan.github.io/pagina/tags/html/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://jsellan.github.io/pagina/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://jsellan.github.io/pagina/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://jsellan.github.io/pagina/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://jsellan.github.io/pagina/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://jsellan.github.io/pagina/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://jsellan.github.io/pagina/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://jsellan.github.io/pagina/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://jsellan.github.io/pagina/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://jsellan.github.io/pagina/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://jsellan.github.io/pagina/"
                 />
   </url>
   
