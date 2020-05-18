@@ -29,7 +29,6 @@ Meet ofrece presentaciones nativas en pantalla completa, lo que facilita mostrar
 **Integración de G Suite**: 
 G Suite es el paquete de servicios basados en la nube de Google que puede proporcionar a su empresa o escuela una nueva forma de trabajar juntos en línea. Obtiene un nombre de dominio y acceso a Gmail, Calendario, Drive y otros servicios de G Suite como Meet. Para los clientes de G Suite Enterprise, cada reunión tiene un número de teléfono específico.
 
-
 * Chats
 * Videoconferéncias
 * Notas
@@ -37,6 +36,21 @@ G Suite es el paquete de servicios basados en la nube de Google que puede propor
 * Office Online
 * Planner
 * Comparte Pantalla
+
+
+##  Caracteristicas
+
+- Características de Google Meet
+- Precios desde los US$5.4 hasta US$25 al mes (por G Suite)
+- Llamadas gratis solo usando Google Meet
+- Hasta 30 personas (Hangouts permite hasta 10)
+- Con G Suite, permite asociar reuniones al calendario de Google
+- Puedes compartir documentos de Google
+- No es necesaria una cuenta para unirse
+- Funciona en dispositivos móviles y de escritorio
+- Puede enlazarse con otras apps de Google
+
+
 
 #### 
 
