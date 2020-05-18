@@ -20,7 +20,7 @@ Google Meet también está disponible en App Store para dispositivos móviles, i
 
 ## ¿Cómo funciona Google Meet?
 
-**Video conferencias** 
+**Video conferencias**: 
 Para comenzar sus reuniones, simplemente compartirá un enlace. No habrá cuentas, complementos, descargas o problemas si ya está en el ecosistema de Google y ha iniciado sesión en un navegador como Chrome. Las personas pueden hacer clic en un enlace de Google Calendar, una invitación por correo electrónico o un recurso compartido ad-hoc. Y si está llamando desde una sala de conferencias, su computadora portátil o una aplicación móvil dedicada, son solo unos pocos clics y ya está.
 
 **Presentaciones** 
