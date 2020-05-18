@@ -2,10 +2,10 @@
 author = "Hugo Auteurs"
 title = "Las 6 mejores aplicaciones para video conferencias"
 date = "2019-03-11"
-description = "Top 6: las 6 mejores apps para hacer videoconferencias"
+description = ""
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
-images  = ["img/2014/04/pic02.jpg"]
+images  = ["img/2014/04/pic022.jpg"]
 aliases = ["migrate-from-jekyl"]
 +++
 
