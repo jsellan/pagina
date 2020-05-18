@@ -1,8 +1,8 @@
 +++
 author = "Hugo Auteurs"
-title = "Guide de syntaxe de Markdown"
+title = "Las 6 mejores aplicaciones para video conferencias"
 date = "2019-03-11"
-description = "Exemple d'article présentant la syntaxe et le formatage de base de Markdown pour les éléments HTML."
+description = "Top 6: las 6 mejores apps para hacer videoconferencias"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 images  = ["img/2014/04/pic02.jpg"]
