@@ -2,7 +2,7 @@ baseURL = "http://jsellan.github.io/pagina"
 languageCode = "en-us"
 publishDir = "docs" 
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "MSIG_XXI-P2"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -120,35 +120,35 @@ disableLanguages        = [""]
   [[menu.main]]
     name              = "Home"
     identifier        = "home"
-    url               = "/"
+    url               = "https://jsellan.github.io/pagina/"
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
 
   [[menu.main]]
     name              = "About"
     identifier        = "about"
-    url               = "/about/"
+    url               = "https://jsellan.github.io/pagina/"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
-    url               = "/blog/"
+    url               = "https://jsellan.github.io/pagina/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
-    url               = "/categories/"
+    url               = "https://jsellan.github.io/pagina/blog/markdown-syntax/"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
-    url               = "/contact/"
+    url               = "https://jsellan.github.io/pagina/"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
