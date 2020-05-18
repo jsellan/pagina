@@ -50,6 +50,17 @@ G Suite es el paquete de servicios basados en la nube de Google que puede propor
 - Puede enlazarse con otras apps de Google
 
 
+##  Nuevas actualizaciones
+Google anunció una actualización para su servicio de videoconferencias, Meet. Entre los anuncios de la compañía encontramos:
+
+1.- Cambio en el diseño de mosaicos que permite hasta 16 participantes en una misma pantalla.
+
+2.- Se puede compartir contenido en HD mediante la opción de “compartir pantalla”.
+
+3.- Uso de inteligencia artificial para activar un modo de poca luz.
+
+4.- Cancelación de ruido de sonidos externos.
+
 
 #### 
 
