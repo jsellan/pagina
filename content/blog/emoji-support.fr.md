@@ -26,8 +26,8 @@ Para comenzar sus reuniones, simplemente compartirá un enlace. No habrá cuenta
 **Presentaciones**: 
 Meet ofrece presentaciones nativas en pantalla completa, lo que facilita mostrar los proyectos de su equipo, aunque las opciones para compartir no son tan dinámicas como las que encontrará en Zoom , aunque existe la opción útil de compartir una sola pestaña de Chrome.
 
-**Integración de G** 
-Suite G Suite es el paquete de servicios basados en la nube de Google que puede proporcionar a su empresa o escuela una nueva forma de trabajar juntos en línea. Obtiene un nombre de dominio y acceso a Gmail, Calendario, Drive y otros servicios de G Suite como Meet. Para los clientes de G Suite Enterprise, cada reunión tiene un número de teléfono específico.
+**Integración de G Suite**: 
+G Suite es el paquete de servicios basados en la nube de Google que puede proporcionar a su empresa o escuela una nueva forma de trabajar juntos en línea. Obtiene un nombre de dominio y acceso a Gmail, Calendario, Drive y otros servicios de G Suite como Meet. Para los clientes de G Suite Enterprise, cada reunión tiene un número de teléfono específico.
 
 
 * Chats
