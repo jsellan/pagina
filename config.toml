@@ -158,17 +158,6 @@ disableLanguages        = [""]
     LanguageCode        = "en"
     LanguageName        = "Español"
     weight              = 1
-
- 
-   
-
-
-  [Languages.es]
-    LanguageCode        = "es"
-    LanguageName        = "Española2"
-    weight              = 6
-
-
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
 # and socialAppearAtBottom.
