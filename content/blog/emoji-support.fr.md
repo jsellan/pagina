@@ -1,5 +1,5 @@
 +++
-author = "Diego Faria"
+author = "Diego Faria D."
 title = "Google Meet"
 date = "2020-05-17"
 description = "Google Meet es una nueva aplicación de videoconferencias que sustituye a Google Hangout en el ámbito profesional y que nos permite crear salas de reunión virtuales usando url como identificadores de salas de reunión"
