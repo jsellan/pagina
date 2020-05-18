@@ -5,16 +5,6 @@
   <url>
     <loc>http://jsellan.github.io/pagina/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/blog/"
-                />
   </url>
   
   <url>
@@ -22,43 +12,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://jsellan.github.io/pagina/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://jsellan.github.io/pagina/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://jsellan.github.io/pagina/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://jsellan.github.io/pagina/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://jsellan.github.io/pagina/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://jsellan.github.io/pagina/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://jsellan.github.io/pagina/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -70,31 +25,16 @@
   <url>
     <loc>http://jsellan.github.io/pagina/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/tags/css/"
-                />
+  </url>
+  
+  <url>
+    <loc>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jsellan.github.io/pagina/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/tags/html/"
-                />
   </url>
   
   <url>
@@ -102,43 +42,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://jsellan.github.io/pagina/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://jsellan.github.io/pagina/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://jsellan.github.io/pagina/de/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://jsellan.github.io/pagina/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://jsellan.github.io/pagina/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://jsellan.github.io/pagina/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://jsellan.github.io/pagina/ja/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -150,46 +55,16 @@
   <url>
     <loc>http://jsellan.github.io/pagina/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/tags/markdown/"
-                />
   </url>
   
   <url>
     <loc>http://jsellan.github.io/pagina/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/blog/markdown-syntax/"
-                />
   </url>
   
   <url>
     <loc>http://jsellan.github.io/pagina/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/categories/syntax/"
-                />
   </url>
   
   <url>
@@ -197,43 +72,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://jsellan.github.io/pagina/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://jsellan.github.io/pagina/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://jsellan.github.io/pagina/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://jsellan.github.io/pagina/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://jsellan.github.io/pagina/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://jsellan.github.io/pagina/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://jsellan.github.io/pagina/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -245,31 +85,11 @@
   <url>
     <loc>http://jsellan.github.io/pagina/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/tags/themes/"
-                />
   </url>
   
   <url>
     <loc>http://jsellan.github.io/pagina/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/categories/themes/"
-                />
   </url>
   
   <url>
@@ -300,56 +120,21 @@
   <url>
     <loc>http://jsellan.github.io/pagina/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/tags/emoji/"
-                />
+  </url>
+  
+  <url>
+    <loc>http://jsellan.github.io/pagina/blog/emoji-support.fr/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jsellan.github.io/pagina/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/blog/emoji-support/"
-                />
   </url>
   
   <url>
-    <loc>http://jsellan.github.io/pagina/about/</loc>
+    <loc>http://jsellan.github.io/pagina/about/_index.fr/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://jsellan.github.io/pagina/pl/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://jsellan.github.io/pagina/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://jsellan.github.io/pagina/pt/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://jsellan.github.io/pagina/about/"
-                />
   </url>
   
   <url>

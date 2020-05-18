@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Guide de syntaxe de Markdown</title>
+      <link>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</guid>
+      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>http://jsellan.github.io/pagina/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -41,11 +50,36 @@ pectora summo.&lt;/p&gt;</description>
     
     <item>
       <title>Emoji Support</title>
+      <link>http://jsellan.github.io/pagina/blog/emoji-support.fr/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://jsellan.github.io/pagina/blog/emoji-support.fr/</guid>
+      <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
+La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
+Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
+Le [aide-mémoire Emoji] (http://www.emoji-cheat-sheet.com/) est une référence utile pour les codes abrégés emoji.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
       <link>http://jsellan.github.io/pagina/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://jsellan.github.io/pagina/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>À propos de Hugo</title>
+      <link>http://jsellan.github.io/pagina/about/_index.fr/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://jsellan.github.io/pagina/about/_index.fr/</guid>
+      <description>Hugo est un moteur de site statique écrit en Go.
+Il utilise une variété de projets open source, notamment:
+ [Cobra] (https://github.com/spf13/cobra) [Viper] (https://github.com/spf13/viper) [J Walter Weatherman] (https://github.com/spf13/jWalterWeatherman) [Cast] (https://github.com/spf13/cast)  En savoir plus et contribuer sur [GitHub] (https://github.com/spf13).
+Installer Quelques faits amusants sur [Hugo] (http://gohugo.io/):
+ Construit en [Go] (http://golang.org/) Librement inspiré par [Jekyll] (http://jekyllrb.com/) Principalement développé par [spf13] (http://spf13.com/) dans le train lors d&amp;rsquo;un trajet aller-retour pour Manhattan. Codé dans [Vim] (http://vim.</description>
     </item>
     
     <item>
