@@ -132,9 +132,9 @@ disableLanguages        = [""]
     weight            = 2
 
   [[menu.main]]
-    name              = "Blog"
+    name              = "CanalYoutube"
     identifier        = "blog"
-    url               = "https://jsellan.github.io/pagina/"
+    url               = "https://www.youtube.com/watch?v=izx0l6y_1g0&feature=youtu.be&t=8"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
