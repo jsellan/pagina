@@ -4,7 +4,7 @@ title = " Zoom "
 date = "2020-05-17"
 description = "Zoom es un servicio de videoconferencia basado en la nube que puede usar para reunirse virtualmente con otros, ya sea por video o solo audio o ambos, todo mientras realiza chats en vivo, y le permite grabar esas sesiones para verlas más tarde."
 tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
+categories = ["ZOOM", ""]
 images  = ["img/2014/04/pic023.jpg"]
 aliases = ["migrate-from-jekyl"]
 +++

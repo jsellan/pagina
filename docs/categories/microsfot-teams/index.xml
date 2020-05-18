@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsfot TEAMS on Hugo Future Imperfect Slim</title>
+    <link>http://jsellan.github.io/pagina/categories/microsfot-teams/</link>
+    <description>Recent content in Microsfot TEAMS on Hugo Future Imperfect Slim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://jsellan.github.io/pagina/categories/microsfot-teams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft TEAMS</title>
+      <link>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</guid>
+      <description>Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, reforzando las funciones colaborativas de la plataforma en la nube, Office 365.
+¿Qué es Microsoft Teams? Teams está integrado de manera natural con Microsoft Office 365 y basado en “Groups”, el servicio en la nube desarrollado para la colaboración entre usuarios. La herramienta reúne en un espacio común, las aplicaciones de colaboración necesarias para trabajar en equipo y con las que podrás trabajar con:</description>
+    </item>
+    
+  </channel>
+</rss>

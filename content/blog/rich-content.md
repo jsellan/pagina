@@ -4,7 +4,7 @@ title = "Skype"
 date = "2019-05-17"
 description = "El uso general de la aplicación es gratuito. Solo tiene una versión de pago la cual es más enfocado a empresas y para personas individuales no es necesario. Incluso para pequeñas empresas de menos de 20 empleados, con la versión normal de Skype es más que suficiente."
 tags = ["shortcodes","privacy"]
-categories = [""]
+categories = ["Skype"]
 images = ["img/2017/08/pic044.jpg", "img/2014/04/pic01.jpg"]
 +++
 

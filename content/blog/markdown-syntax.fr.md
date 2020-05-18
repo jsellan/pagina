@@ -4,7 +4,7 @@ title = "Microsoft TEAMS"
 date = "2020-05-18"
 description = "Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, reforzando las funciones colaborativas de la plataforma en la nube, Office 365."
 tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
+categories = ["Microsfot TEAMS", ""]
 images  = ["img/2014/04/pic022.jpg"]
 aliases = ["migrate-from-jekyl"]
 +++
