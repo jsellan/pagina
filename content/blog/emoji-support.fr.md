@@ -20,13 +20,13 @@ Google Meet también está disponible en App Store para dispositivos móviles, i
 
 ## ¿Cómo funciona Google Meet?
 
-Video conferencias 
+**Video conferencias** 
 Para comenzar sus reuniones, simplemente compartirá un enlace. No habrá cuentas, complementos, descargas o problemas si ya está en el ecosistema de Google y ha iniciado sesión en un navegador como Chrome. Las personas pueden hacer clic en un enlace de Google Calendar, una invitación por correo electrónico o un recurso compartido ad-hoc. Y si está llamando desde una sala de conferencias, su computadora portátil o una aplicación móvil dedicada, son solo unos pocos clics y ya está.
 
-Presentaciones 
+**Presentaciones** 
 Meet ofrece presentaciones nativas en pantalla completa, lo que facilita mostrar los proyectos de su equipo, aunque las opciones para compartir no son tan dinámicas como las que encontrará en Zoom , aunque existe la opción útil de compartir una sola pestaña de Chrome.
 
-Integración de G 
+**Integración de G** 
 Suite G Suite es el paquete de servicios basados en la nube de Google que puede proporcionar a su empresa o escuela una nueva forma de trabajar juntos en línea. Obtiene un nombre de dominio y acceso a Gmail, Calendario, Drive y otros servicios de G Suite como Meet. Para los clientes de G Suite Enterprise, cada reunión tiene un número de teléfono específico.
 
 
