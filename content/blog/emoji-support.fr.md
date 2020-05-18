@@ -1,5 +1,5 @@
 +++
-author = "Diego Faria"
+author = "Diego Faria D."
 title = "Google Meet"
 date = "2020-05-17"
 description = "Google Meet es una nueva aplicación de videoconferencias que sustituye a Google Hangout en el ámbito profesional y que nos permite crear salas de reunión virtuales usando url como identificadores de salas de reunión"
@@ -20,12 +20,14 @@ Google Meet también está disponible en App Store para dispositivos móviles, i
 
 ## ¿Cómo funciona Google Meet?
 
-Video conferencias Para comenzar sus reuniones, simplemente compartirá un enlace. No habrá cuentas, complementos, descargas o problemas si ya está en el ecosistema de Google y ha iniciado sesión en un navegador como Chrome. Las personas pueden hacer clic en un enlace de Google Calendar, una invitación por correo electrónico o un recurso compartido ad-hoc. Y si está llamando desde una sala de conferencias, su computadora portátil o una aplicación móvil dedicada, son solo unos pocos clics y ya está.
+**Video conferencias**: 
+Para comenzar sus reuniones, simplemente compartirá un enlace. No habrá cuentas, complementos, descargas o problemas si ya está en el ecosistema de Google y ha iniciado sesión en un navegador como Chrome. Las personas pueden hacer clic en un enlace de Google Calendar, una invitación por correo electrónico o un recurso compartido ad-hoc. Y si está llamando desde una sala de conferencias, su computadora portátil o una aplicación móvil dedicada, son solo unos pocos clics y ya está.
 
-Presentaciones Meet ofrece presentaciones nativas en pantalla completa, lo que facilita mostrar los proyectos de su equipo, aunque las opciones para compartir no son tan dinámicas como las que encontrará en Zoom , aunque existe la opción útil de compartir una sola pestaña de Chrome.
+**Presentaciones**: 
+Meet ofrece presentaciones nativas en pantalla completa, lo que facilita mostrar los proyectos de su equipo, aunque las opciones para compartir no son tan dinámicas como las que encontrará en Zoom , aunque existe la opción útil de compartir una sola pestaña de Chrome.
 
-Integración de G Suite G Suite es el paquete de servicios basados en la nube de Google que puede proporcionar a su empresa o escuela una nueva forma de trabajar juntos en línea. Obtiene un nombre de dominio y acceso a Gmail, Calendario, Drive y otros servicios de G Suite como Meet. Para los clientes de G Suite Enterprise, cada reunión tiene un número de teléfono específico.
-
+**Integración de G Suite**: 
+G Suite es el paquete de servicios basados en la nube de Google que puede proporcionar a su empresa o escuela una nueva forma de trabajar juntos en línea. Obtiene un nombre de dominio y acceso a Gmail, Calendario, Drive y otros servicios de G Suite como Meet. Para los clientes de G Suite Enterprise, cada reunión tiene un número de teléfono específico.
 
 * Chats
 * Videoconferéncias
@@ -33,6 +35,32 @@ Integración de G Suite G Suite es el paquete de servicios basados en la nube de
 * Acceso a contenido
 * Office Online
 * Planner
+* Comparte Pantalla
+
+
+##  Características de Google Meet
+
+- Precios desde los US$5.4 hasta US$25 al mes (por G Suite)
+- Llamadas gratis solo usando Google Meet
+- Hasta 30 personas (Hangouts permite hasta 10)
+- Con G Suite, permite asociar reuniones al calendario de Google
+- Puedes compartir documentos de Google
+- No es necesaria una cuenta para unirse
+- Funciona en dispositivos móviles y de escritorio
+- Puede enlazarse con otras apps de Google
+
+
+##  Nuevas actualizaciones
+Google anunció una actualización para su servicio de videoconferencias, Meet. Entre los anuncios de la compañía encontramos:
+
+1.- Cambio en el diseño de mosaicos que permite hasta 16 participantes en una misma pantalla.
+
+2.- Se puede compartir contenido en HD mediante la opción de “compartir pantalla”.
+
+3.- Uso de inteligencia artificial para activar un modo de poca luz.
+
+4.- Cancelación de ruido de sonidos externos.
+
 
 #### 
 
