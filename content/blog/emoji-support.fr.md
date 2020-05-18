@@ -38,9 +38,8 @@ G Suite es el paquete de servicios basados en la nube de Google que puede propor
 * Comparte Pantalla
 
 
-##  Caracteristicas
+##  Características de Google Meet
 
-- Características de Google Meet
 - Precios desde los US$5.4 hasta US$25 al mes (por G Suite)
 - Llamadas gratis solo usando Google Meet
 - Hasta 30 personas (Hangouts permite hasta 10)
