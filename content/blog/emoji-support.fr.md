@@ -36,6 +36,7 @@ Suite G Suite es el paquete de servicios basados en la nube de Google que puede 
 * Acceso a contenido
 * Office Online
 * Planner
+* Comparte Pantalla
 
 #### 
 
