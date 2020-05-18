@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jsellan.github.io/pagina/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -109,6 +104,10 @@
   
   <url>
     <loc>http://jsellan.github.io/pagina/contact/_index.br/</loc>
+  </url>
+  
+  <url>
+    <loc>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</loc>
   </url>
   
 </urlset>

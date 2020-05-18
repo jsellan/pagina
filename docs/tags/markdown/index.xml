@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Las 6 mejores aplicaciones para video conferencias</title>
-      <link>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</guid>
-      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Markdown Syntax Guide</title>
       <link>http://jsellan.github.io/pagina/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -37,6 +28,16 @@
       <guid>http://jsellan.github.io/pagina/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microsoft TEAMS</title>
+      <link>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jsellan.github.io/pagina/blog/markdown-syntax.fr/</guid>
+      <description>Microsoft Teams es un espacio de trabajo basado en chat de Office 365 diseñado para mejorar la comunicación y colaboración de los equipos de trabajo de las empresas, reforzando las funciones colaborativas de la plataforma en la nube, Office 365.
+¿Qué es Microsoft Teams? Teams está integrado de manera natural con Microsoft Office 365 y basado en “Groups”, el servicio en la nube desarrollado para la colaboración entre usuarios. La herramienta reúne en un espacio común, las aplicaciones de colaboración necesarias para trabajar en equipo y con las que podrás trabajar con:</description>
     </item>
     
   </channel>
