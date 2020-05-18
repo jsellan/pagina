@@ -8,7 +8,7 @@ categories = ["FaceTime"]
 images  = ["img/2014/04/pic0111.jpg"]
 +++
 
-* El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. Entre estas herramientas se encuentra Facetime, una aplicación de mensajería que incluye video, mansajes de texto, voz y más.
+* El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. Entre estas herramientas se encuentra Facetilicación de mensajería que incluye video, mansajes de texto, voz y más.
 
 * Con FaceTime, los usuarios de Apple tienen la posibilidad de comunicarse incluso a través de videollamadas por intermedio de cualquier dispositivo Apple que posean, y del mismo modo, al recibir una llamada o un mensaje la aplicación lo notificará en todos los dispositivos compatibles que posee el destinatario.
 
