@@ -37,7 +37,7 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by G5_MSIG."
     # Sets the meta tag author
     author              = "HTML5UP and Hugo"
     # If you would like to add more comprehensive favicon support passed root
@@ -52,7 +52,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "MSIG_XXI_P2-ESPOL"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -62,7 +62,7 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Tecnologias"
+    header                = "Las 6 mejores apps para hacer videoconferencias"
     paragraph             = "El teletrabajo se ha convertido en una fórmula eficaz para poder desarrollar la actividad de multitud de empresas."
     rssIntro              = true
     socialIntro           = true
@@ -82,7 +82,7 @@ disableLanguages        = [""]
       alt                 = "Hugo Future Imperfect Slim"
 
   [params.sidebar]
-    about               = "Tecnologias de teletra"
+    about               = "Tecnologias para el teletrabajo"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
