@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji on MSIG_XXI-P2</title>
-    <link>http://jsellan.github.io/pagina/tags/emoji/</link>
-    <description>Recent content in emoji on MSIG_XXI-P2</description>
+    <title>FaceTime on MSIG_XXI-P2</title>
+    <link>http://jsellan.github.io/pagina/categories/facetime/</link>
+    <description>Recent content in FaceTime on MSIG_XXI-P2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://jsellan.github.io/pagina/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jsellan.github.io/pagina/categories/facetime/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://jsellan.github.io/pagina/blog/emoji-support/</guid>
       <description>El usuario de un iPhone, iPad o de una MacBook sabe que su producto le ofrece absolutamente todas las herramientas para realizar todas las tareas que necesita con una calidad y solidez que pocos pueden imitar. Entre estas herramientas se encuentra Facetime, una aplicación de mensajería que incluye video, mansajes de texto, voz y más.
   Con FaceTime, los usuarios de Apple tienen la posibilidad de comunicarse incluso a través de videollamadas por intermedio de cualquier dispositivo Apple que posean, y del mismo modo, al recibir una llamada o un mensaje la aplicación lo notificará en todos los dispositivos compatibles que posee el destinatario.</description>
-    </item>
-    
-    <item>
-      <title>Google Meet</title>
-      <link>http://jsellan.github.io/pagina/blog/emoji-support.fr/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://jsellan.github.io/pagina/blog/emoji-support.fr/</guid>
-      <description>Google Meet es una nueva aplicación de videoconferencias que sustituye a Google Hangout en el ámbito profesional y que nos permite crear salas de reunión virtuales usando url como identificadores de salas de reunión. La compañía quería mejorar Hangouts para que sea una aplicación más sencilla y rápida para los usuarios al momento de iniciar o unirse a una videoconferencia.
-Google describe Meet como “una experiencia de reunión a través de video con el objetivo de unirse a reuniones de forma fácil”.</description>
     </item>
     
   </channel>
