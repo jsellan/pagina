@@ -48,6 +48,20 @@ Microsoft Teams es una de las plataformas de comunicación más populares del mu
 * Mensajes grupales basados ​​en chat con controles de acceso
 * Minimice los volúmenes de correo electrónico entre los miembros del equipo.
 
+### Voz y videollamadas
+
+* Realice llamadas de voz y videollamadas de alta calidad a individuos o grupos
+* Llama a personas en cualquier parte del mundo y desde cualquier dispositivo
+* Inicie llamadas de voz o video con un solo clic
+* Use el uso compartido de pantalla para colaborar en tiempo real desde cualquier ubicación 
+
+### Reuniones
+
+* Organice reuniones, presentaciones y eventos para usuarios en cualquier parte del mundo.
+* Proporcione una experiencia de video interactivo de alta calidad para hasta 10,000 participantes \
+* Fácil acceso a documentos y datos almacenados en Office 365
+* Grabar reuniones y llamadas para que nadie se pierda
+
 > 
 > 
 
