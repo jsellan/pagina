@@ -22,7 +22,13 @@ Teams está integrado de manera natural con Microsoft Office 365 y basado en “
 * Office Online
 * Planner
 
-#### hacer cambios lucy
+## Ventajas de Microsoft Teams
+* Acceso a las herramientas de comunicación
+* Mayor productividad y colaboración
+* Ayuda a centrarse en el trabajo
+* Aumento de la transparencia
+* Espacios de trabajo personalizables
+* Integración de otras aplicaciones de Office 365
 
 > 
 > 
