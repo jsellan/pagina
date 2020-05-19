@@ -64,6 +64,10 @@ Microsoft Teams es una de las plataformas de comunicación más populares del mu
 
 > Las reuniones de Microsoft Teams son fáciles de programar, sincronizar con Outlook y tienen capacidades integradas de audio, video y uso compartido de pantalla. Para las reuniones grupales , no necesita un número de marcación o un PIN: todos los que forman parte del equipo pueden unirse.
 
+## EN RESUMEN
+
+Si realmente quiere  incrementar la productividad, mejorar la participación de los empleados y aprovechar al máximo su inversión en Office 365, Microsoft Teams es la plataforma de colaboración adecuada.
+
 > 
 > 
 
