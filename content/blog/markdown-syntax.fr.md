@@ -30,6 +30,11 @@ Teams está integrado de manera natural con Microsoft Office 365 y basado en “
 * Espacios de trabajo personalizables
 * Integración de otras aplicaciones de Office 365
 
+## Cómo funciona Microsoft Teams
+
+Teams facilita la creación de espacios dedicados para que los equipos de proyectos, unidades de negocios, equipo de trabajo  y otros grupos se comuniquen y colaboren. Al crear un ‘equipo’ y asignar usuarios, las organizaciones pueden establecer salas de chat grupales privadas (llamadas ‘canales’) para planificar, administrar y entregar el trabajo.
+
+Los canales son fáciles de usar y ofrecen una experiencia familiar a otras aplicaciones de mensajería populares. Las conversaciones se agrupan en un hilo para que pueda acceder a todos los mensajes de chat grupales en un solo lugar. Los usuarios reciben notificaciones cuando hay un nuevo mensaje disponible. Las llamadas grupales y los chats de vídeo también se pueden iniciar con un clic desde cada canal.
 > 
 > 
 
