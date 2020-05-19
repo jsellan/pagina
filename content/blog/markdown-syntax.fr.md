@@ -38,15 +38,15 @@ Cada equipo puede configurar múltiples canales para mantener los temas de discu
 
 Los canales son fáciles de usar y ofrecen una experiencia familiar a otras aplicaciones de mensajería populares. Las conversaciones se agrupan en un hilo para que pueda acceder a todos los mensajes de chat grupales en un solo lugar. Los usuarios reciben notificaciones cuando hay un nuevo mensaje disponible. Las llamadas grupales y los chats de vídeo también se pueden iniciar con un clic desde cada canal.
 
-### Características de Teams  Microsoft
-Microsoft Teams es una de las plataformas de comunicación más populares del mundo, y por una buena razón. Está diseñado para satisfacer las importantes necesidades de comunicación y colaboración de los equipos de negocios, independientemente de su ubicación o la elección del dispositivo. Las características clave incluyen:
+## Características de Teams  Microsoft
+Microsoft Teams es una de las plataformas de comunicación más populares del mundo, y por una buena razón. Está diseñado para satisfacer las importantes necesidades de *comunicación y colaboración de los equipos de negocios, independientemente de su ubicación o la elección del dispositivo*.
 
-* Mensajería instantánea
+### Mensajería instantánea
 
-Conéctese instantáneamente con los miembros del equipo en diferentes ubicaciones y dispositivos.
-Mensajería privada basada en chat
-Mensajes grupales basados ​​en chat con controles de acceso
-Minimice los volúmenes de correo electrónico entre los miembros del equipo.
+* Conéctese instantáneamente con los miembros del equipo en diferentes ubicaciones y dispositivos.
+* Mensajería privada basada en chat
+* Mensajes grupales basados ​​en chat con controles de acceso
+* Minimice los volúmenes de correo electrónico entre los miembros del equipo.
 
 > 
 > 
