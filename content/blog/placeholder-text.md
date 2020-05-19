@@ -8,10 +8,10 @@ categories = ["Webex"]
 images  = ["img/2014/09/pic033.jpg"]
 +++
 
-[ En la Actualidad ](#Van_de_Graaf_canon)
-
-
 Cada mes, 113 millones de profesionales confían en WebEx para colaborar y hacer avanzar proyectos más rápido. Ahora los equipos pueden trabajar con cualquier persona desde un navegador, un dispositivo móvil o un sistema de video. WebEx Meeting Center ofrece capacidad integrada para compartir audio, video y contenido. Mantén la privacidad de las conversaciones con reuniones de WebEx altamente seguras de Cisco Collaboration Cloud.
+
+
+[ Webex blog ](https://gblogs.cisco.com/es/2018/07/bienvenido-a-la-nueva-experiencia-de-webex-meetings-and-events/)
 
 ## Entre las ventajas de utilizar Webex se incluyen:
 
